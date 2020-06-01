@@ -642,6 +642,7 @@ vl.am
 vm.lc
 voizle.com
 vtc.es
+w.wiki
 w0r.me
 w33.us
 w34.us
